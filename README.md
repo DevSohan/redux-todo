@@ -1,4 +1,6 @@
-# React + TypeScript + Vite
+# Redux-Todos
+
+A simple todo app to learn the react-redux and redux-toolkit.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
